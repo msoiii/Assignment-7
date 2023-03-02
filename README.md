@@ -22,11 +22,17 @@ I could not find licensing indicating that the website data was protected. I use
 Data Dictionary
 
 Rank =  This is an integer data type that shows the rank of the Youtube channel based on the number of video views compared to the other channels on the list.
+
 Channel_name = This is a string data type that displays the name of the Youtube channel
+
 Subscriber_count = This is an integer data type that shows the number of subscribers, or followers,  a Youtube channel has.
+
 Video_Views = An integer data type that displays the sum views of all videos a Youtube channel has gotten.
+
 Video_Count = An integer data type that displays the total number of videos a Youtube channel has published.
+
 Genre = A string data type that shows the specific category it is labeled as. 
+
 Channel_Started = An integer data type that displays the year the Youtube channel was created.
 
 
