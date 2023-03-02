@@ -1,6 +1,6 @@
 # Assignment-7
 
-**Introduction: **
+Introduction:
 
 With over 2 billion monthly active users, YouTube is one of the most popular and influential social media platforms centered around video content.  I was intrigued to know what genres that users around the world consume the most.  
 Project Goal: 
@@ -11,7 +11,7 @@ What is the most popular Genre type according to the website chart?
  Which Genre had the greatest video output?
 
 
-**Data Source: **
+Data Source:
 
 I do not own the data used. My data source originated from us.youtubers.me, a site that tracks Youtube channels and videos and ranks them in a list order according to certain categories such as most subscribers, most likes, or based on country of origin. 
 A limitation on this data source is that although the website is refreshed daily, it may not incorporate the latest data points at the present moment.
@@ -19,7 +19,7 @@ I selected the Top 300 Youtube channels from the website (https://us.youtubers.m
 I could not find licensing indicating that the website data was protected. I used this data, assuming it was allowed for public usage, to complete an educational assignment for my Intro To Human-Centered Data Science (I310D) course.   
 
 
-**Data Dictionary **
+Data Dictionary
 
 Rank =  This is an integer data type that shows the rank of the Youtube channel based on the number of video views compared to the other channels on the list.
 Channel_name = This is a string data type that displays the name of the Youtube channel
@@ -30,6 +30,6 @@ Genre = A string data type that shows the specific category it is labeled as.
 Channel_Started = An integer data type that displays the year the Youtube channel was created.
 
 
-**API Documentation: **
+API Documentation:
 
 Here is a link to the Beautiful Soup API documentation: https://beautiful-soup-4.readthedocs.io/en/latest/ 
